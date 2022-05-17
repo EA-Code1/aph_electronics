@@ -14,6 +14,7 @@ Front end: React.js, back end: Next.js(as a backend endpoint), CMS: Sanity(file 
 <li>React: State Managament of the whole application using React Context API.
 <li>Next.js: File-based routing, Data fetching that allows server-side rendering and Next.js is used as a backend endpoint. 
 <li>Sanity enables you or clients to edit the store's homepage as well as the details of all the products in the store quickly and on the move. 
+<li>Stripe is use to manage payments, products, shipping rates and the whole checkout operation.  
 <br>
 <br>
 <img src="aph_img/aph.png" width="600"> 
